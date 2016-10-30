@@ -1,0 +1,7 @@
+!.gitkeep
+node_modules
+tmp
+.DS_Store
+*.log
+.firebasesec
+firebase.json
